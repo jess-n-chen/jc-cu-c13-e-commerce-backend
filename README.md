@@ -3,7 +3,7 @@
 ## Columbia University Bootcamp - Object-Relational Mapping (ORM) Challenge: E-commerce Back End
 
 > This repository contains my code for an e-commerce website backend to manage category, product and tag data using API endpoints.
-> Link to Walkthrough Video:
+> Link to Walkthrough Video: https://drive.google.com/file/d/1XUQ_faCVj8VyAXR5qZyRDVtz9XGVyG8v/view
 
 ## Table of Contents
 
@@ -11,6 +11,7 @@
 - [Project Requirements](#project-requirements)
 - [Installation](#installation)
 - [Screenshots](#screenshots)
+- [Source Code](#source-code)
 - [Contact](#contact)
 
 ## General Information
@@ -50,11 +51,18 @@ THEN I am able to successfully create, update, and delete data in my database
 ## Installation
 
 1. Clone the repository to your local drive.
-2. Run `npm install` in order to install the npm package dependencies as specified in the package.json file.
+2. Run `npm i` in order to install the npm package dependencies as specified in the package.json file.
 3. Run `npm run seed` to seed the database.
 4. Run `npm start` in the command line to use the application.
 
 ## Screenshots
+
+![GET Request](./assets/GET%20Request.png)
+![POST Request](./assets/POST%20Request.png)
+
+## Source Code
+
+Source Code Reference: https://github.com/coding-boot-camp/fantastic-umbrella
 
 ## Contact
 
