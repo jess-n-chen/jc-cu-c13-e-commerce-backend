@@ -3,7 +3,7 @@
 ## Columbia University Bootcamp - Object-Relational Mapping (ORM) Challenge: E-commerce Back End
 
 > This repository contains my code for an e-commerce website backend to manage category, product and tag data using API endpoints.
-> Link to Walkthrough Video: https://drive.google.com/file/d/1XUQ_faCVj8VyAXR5qZyRDVtz9XGVyG8v/view
+> Link to Walkthrough Video: https://drive.google.com/file/d/1YIjZwPQMiRzIv6lKgxFpSAMsnur1nzCj/view
 
 ## Table of Contents
 
